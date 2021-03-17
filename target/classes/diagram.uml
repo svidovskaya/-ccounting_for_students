@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="712.0">com.example.classroom.controller.AdminMainController</node>
+    <node x="0.0" y="450.0">com.example.classroom.domain.Groups</node>
+    <node x="193.0" y="450.0">com.example.classroom.domain.Sbjct</node>
+    <node x="552.0" y="450.0">com.example.classroom.domain.UserQr</node>
+    <node x="0.0" y="860.0">com.example.classroom.service.MailSender</node>
+    <node x="758.0" y="614.0">com.example.classroom.controller.RegistrationController</node>
+    <node x="364.0" y="786.0">com.example.classroom.service.UserService</node>
+    <node x="448.0" y="712.0">com.example.classroom.controller.UserMainController</node>
+    <node x="532.0" y="786.0">com.example.classroom.repos.CoupUsrRepo</node>
+    <node x="161.0" y="860.0">com.example.classroom.repos.CoupQrRepo</node>
+    <node x="706.0" y="450.0">com.example.classroom.config.WebSecurityConfig</node>
+    <node x="217.0" y="614.0">com.example.classroom.domain.Role</node>
+    <node x="189.0" y="786.0">com.example.classroom.repos.UserInfoRepo</node>
+    <node x="700.0" y="786.0">com.example.classroom.Application</node>
+    <node x="224.0" y="712.0">com.example.classroom.controller.MyAccountController</node>
+    <node x="386.0" y="450.0">com.example.classroom.domain.CoupQr</node>
+    <node x="774.0" y="0.0">com.example.classroom.domain.Couples_user</node>
+    <node x="483.0" y="860.0">com.example.classroom.repos.SbjctRepo</node>
+    <node x="637.0" y="860.0">com.example.classroom.config.MVCConfig</node>
+    <node x="0.0" y="0.0">com.example.classroom.domain.User</node>
+    <node x="347.0" y="0.0">com.example.classroom.domain.Couples</node>
+    <node x="791.0" y="860.0">com.example.classroom.repos.UserRepo</node>
+    <node x="665.0" y="712.0">com.example.classroom.controller.MainController</node>
+    <node x="0.0" y="786.0">com.example.classroom.controller.UserController</node>
+    <node x="0.0" y="934.0">com.example.classroom.repos.CoupRepo</node>
+    <node x="322.0" y="860.0">com.example.classroom.repos.GroupsRepo</node>
+    <node x="0.0" y="614.0">com.example.classroom.config.MailConfig</node>
+    <node x="373.0" y="614.0">com.example.classroom.config.CustomUsernamePasswordAuthenticationFilter</node>
+    <node x="599.0" y="0.0">com.example.classroom.domain.UserInfo</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.6579600647598488" x="868.0563884321502" y="952.7256263706377" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
